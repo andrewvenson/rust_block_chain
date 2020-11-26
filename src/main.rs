@@ -10,7 +10,6 @@ fn main() {
     let mut message = String::new();
     let mut x = 0;
 
-
     loop {
         x = x + 1;
 
