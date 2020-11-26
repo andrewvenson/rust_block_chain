@@ -41,7 +41,6 @@ fn main() {
             println!("Gen Block: {:?}", hash);
             break;
         }
-        
     }
 }
 
