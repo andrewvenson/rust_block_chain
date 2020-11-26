@@ -1,0 +1,12 @@
+[package]
+name = "rusty"
+version = "0.1.0"
+authors = ["andrewvenson"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.5.5"
+sha2 = "0.9.2"
+hex = "0.4.2"
